@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306391631460",
+    "project_id": "wamartecommerce",
+    "storage_bucket": "wamartecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306391631460:android:c43c387a2b06729d550171",
+        "android_client_info": {
+          "package_name": "dev.mukunds.wamartecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306391631460-epccuucv711jb6cslbtn6fdh1kin2mo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.mukunds.wamartecommerce",
+            "certificate_hash": "fee9e74d472d1199c643393cc0ec2592f7417cfc"
+          }
+        },
+        {
+          "client_id": "306391631460-2rnrgsjbtprkfdg3oal65gi0q9p9rkt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTWcws9mXwugeeRQoggdsdTrEpEN_Wx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306391631460-2rnrgsjbtprkfdg3oal65gi0q9p9rkt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

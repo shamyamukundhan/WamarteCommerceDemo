@@ -1,0 +1,25 @@
+<resources >
+    <!-- Base application theme. -->
+    <style name="Theme.WamartEcommerce" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#7F54BC</item>
+        <item name="colorPrimaryVariant">#8867D1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/purple_200</item>
+        <item name="colorSecondaryVariant">#408BC5</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/purple_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.WamartEcommerce.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.WamartEcommerce.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.WamartEcommerce.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
